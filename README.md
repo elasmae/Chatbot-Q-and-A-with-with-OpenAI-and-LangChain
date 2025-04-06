@@ -56,10 +56,5 @@ streamlit run chatbot_app_streamlit.py
 - `data/` – Contains `Introduction_to_Tableau.pdf`
 - `chroma_db/` – Vectorstore database 
 
----
-
-## License
-
-MIT License – free to use and modify. See `LICENSE` for full terms.
 
 
