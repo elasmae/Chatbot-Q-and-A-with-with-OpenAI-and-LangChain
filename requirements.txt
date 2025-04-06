@@ -1,0 +1,11 @@
+langchain
+openai
+chromadb
+pypdf
+langchain_openai
+streamlit
+transformers 
+sentence-transformers 
+
+
+
