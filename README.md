@@ -1,7 +1,8 @@
 
 <img width="926" alt="asskkk" src="https://github.com/user-attachments/assets/fcdbe8be-8bb4-47e8-9f3b-20ab51e762d0" />
-# Q&A Chat Application
 
+
+# Q&A Chat Application
 A local chatbot built with **GPT**, **LangChain**, and **Streamlit** that answers user questions based on  PDF course. Runs entirely offline using a local model — no API keys required.
 
 ---
