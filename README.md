@@ -17,37 +17,6 @@ A local chatbot built with **GPT**, **LangChain**, and **Streamlit** that answer
 
 ---
 
-## Quick Start
-
-1. **Clone the repo**:
-
-```bash
-git clone https://github.com/yourusername/Chatbot-Q-and-A-with-with-OpenAI-and-LangChain.git
-cd Chatbot-Q-and-A-with-with-OpenAI-and-LangChain
-```
-
-2. **Create a virtual environment**:
-
-```bash
-python -m venv chatenv
-.\chatenv\Scripts\activate   # Windows
-# or
-source chatenv/bin/activate  # macOS/Linux
-```
-
-3. **Install dependencies**:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. **Run the app**:
-
-```bash
-streamlit run chatbot_app_streamlit.py
-```
-
----
 
 ## Project Structure
 
