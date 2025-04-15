@@ -3,7 +3,7 @@
 
 
 # Q&A Chat Application
-A local chatbot built with **GPT**, **LangChain**, and **Streamlit** that answers user questions based on  PDF course. Runs entirely offline using a local model — no API keys required.
+A local chatbot built with **GPT**, **LangChain**, and **Streamlit** that answers user questions based on  PDF course. Runs entirely offline using a local model.
 
 ---
 
